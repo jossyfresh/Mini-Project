@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Model artifacts
+models/*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode or IDE settings (optional)
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Data files (optional if you're storing downloaded CSVs)
+data/*.csv
